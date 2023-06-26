@@ -1,0 +1,60 @@
+<application>
+  <component name="VisualizationTool">
+    <option name="state">
+      <GlobalState>
+        <option name="configurationSetId" value="predefinedCustom" />
+        <option name="customConfigurationSets">
+          <map>
+            <entry key="predefinedCustom">
+              <value>
+                <CustomConfigurationSet>
+                  <option name="customConfigAttributes">
+                    <list>
+                      <CustomConfigurationAttribute>
+                        <option name="apiLevel" value="33" />
+                        <option name="deviceId" value="3.3in WQVGA" />
+                        <option name="name" value="Preview" />
+                        <option name="nightMode" value="NOTNIGHT" />
+                        <option name="orientation" value="PORTRAIT" />
+                        <option name="theme" value="ActivityDialogStyle" />
+                        <option name="uiMode" value="NORMAL" />
+                      </CustomConfigurationAttribute>
+                      <CustomConfigurationAttribute>
+                        <option name="apiLevel" value="33" />
+                        <option name="deviceId" value="2.7in QVGA" />
+                        <option name="name" value="Preview" />
+                        <option name="nightMode" value="NOTNIGHT" />
+                        <option name="orientation" value="PORTRAIT" />
+                        <option name="theme" value="ActivityDialogStyle" />
+                        <option name="uiMode" value="NORMAL" />
+                      </CustomConfigurationAttribute>
+                      <CustomConfigurationAttribute>
+                        <option name="apiLevel" value="33" />
+                        <option name="deviceId" value="4.7in WXGA" />
+                        <option name="name" value="Preview" />
+                        <option name="nightMode" value="NOTNIGHT" />
+                        <option name="orientation" value="PORTRAIT" />
+                        <option name="theme" value="ActivityDialogStyle" />
+                        <option name="uiMode" value="NORMAL" />
+                      </CustomConfigurationAttribute>
+                      <CustomConfigurationAttribute>
+                        <option name="apiLevel" value="33" />
+                        <option name="deviceId" value="3.7 FWVGA slider" />
+                        <option name="name" value="Preview" />
+                        <option name="nightMode" value="NOTNIGHT" />
+                        <option name="orientation" value="PORTRAIT" />
+                        <option name="theme" value="ActivityDialogStyle" />
+                        <option name="uiMode" value="NORMAL" />
+                      </CustomConfigurationAttribute>
+                    </list>
+                  </option>
+                </CustomConfigurationSet>
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="firstTimeOpen" value="false" />
+      </GlobalState>
+    </option>
+  </component>
+</application>

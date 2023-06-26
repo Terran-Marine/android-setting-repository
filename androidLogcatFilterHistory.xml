@@ -1,0 +1,29 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine  -tag:Net_Request -tag:Net_Response -tag:UI_Stack -tag:IMApi -tag:Glide -tag:OKPRFL" />
+    <option name="nonFavorites">
+      <list>
+        <option value="package:mine tag:UI_Stack     " />
+        <option value="package:mine  -tag:Net_Request -tag:Net_Response -tag:UI_Stack -tag:IMApi -tag:Glide -tag:OKPRFL" />
+        <option value="package:mine tag:MentorOrderListByUserFragment" />
+        <option value="package:mine tag:WelcomeActivity   " />
+        <option value="package:mine tag:IMListenerManager   " />
+        <option value="package:mine tag:NNChatFragment" />
+        <option value="package:mine -tag:gralloc4" />
+        <option value="package:mine" />
+        <option value="package:mine tag:AccService   " />
+        <option value="package:mine tag:NNChatFragment   " />
+        <option value="package:mine tag:CommunityUserDescFragment   " />
+        <option value="package:mine tag:OurPlayPracticeListAct   " />
+        <option value="package:mine tag:PrizesViewModel  " />
+        <option value="package:mine tag:NNUserInfoRepository  " />
+        <option value="package:mine tag:WelcomeActivity  " />
+        <option value="package:mine tag:ChatPopMenu " />
+        <option value="package:mine tag:NNChatFragment tag:SSS  " />
+        <option value="package:mine tag:NNChatFragment  " />
+        <option value="package:mine tag:CommunityHomeInnerFragment " />
+        <option value="package:mine tag:CommunityViewModel  tag:CommunityFragment" />
+      </list>
+    </option>
+  </component>
+</application>

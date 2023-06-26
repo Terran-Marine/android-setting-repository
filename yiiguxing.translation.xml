@@ -1,0 +1,81 @@
+<application>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1687138842393" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20181217000249471" />
+      </app-key>
+    </option>
+    <option name="primaryLanguage" value="CHINESE" />
+    <option name="showExplanation" value="true" />
+    <option name="showWordsOnStartup" value="true" />
+    <option name="translator" value="BAIDU" />
+  </component>
+  <component name="Translation.States">
+    <option name="newTranslationDialogHeight" value="762" />
+    <option name="newTranslationDialogWidth" value="1488" />
+    <option name="newTranslationDialogX" value="420" />
+    <option name="newTranslationDialogY" value="269" />
+    <histories>
+      <item value="最近" />
+      <item value="zuij" />
+      <item value="入驻" />
+      <item value="reapply" />
+      <item value="理由" />
+      <item value="驳回" />
+      <item value="来自" />
+      <item value="Form" />
+      <item value="退款" />
+      <item value="Practice" />
+      <item value="不可用" />
+      <item value="刷新" />
+      <item value="Primary constructor call expected" />
+      <item value="fetch" />
+      <item value="retch" />
+      <item value="拉取" />
+      <item value="android:inputType=&quot;number&quot;" />
+      <item value="number Signed" />
+      <item value="Smart cast to 'MutableList&lt;String&gt;' is impossible, because 'item.comboServiceTimeRegion' is a public API property declared in different module" />
+      <item value="Some use VPN for TikTok, some use VPN for Twitter" />
+      <item value="&#10;Expecting android:screenOrientation=&quot;unspecified&quot; or &quot;fullSensor&quot; for this activity so the user can use the application in any orientation and provide a great experience on Chrome OS devices" />
+      <item value="参数" />
+      <item value="仓鼠" />
+      <item value="提交表单" />
+      <item value="修改" />
+      <item value="open Practice" />
+      <item value="实力" />
+      <item value="势力" />
+      <item value="精通" />
+      <item value="申请" />
+      <item value="Tutor" />
+      <item value="Mentor" />
+      <item value="导师" />
+      <item value="Mentor Manage Act" />
+      <item value="续费" />
+      <item value="时间段" />
+      <item value="sku" />
+      <item value="规格" />
+      <item value="套餐" />
+      <item value="带玩" />
+      <item value="工会中心" />
+      <item value="角色" />
+      <item value="社区角色" />
+      <item value="社区 " />
+      <item value="Moves a child view from hidden list to regular list. Calling this method should probably be followed by a detach, otherwise, it will suddenly show up in LayoutManager's children list." />
+      <item value="Whether user has enabled development settings." />
+      <item value="Convenience function for retrieving a single secure settings value as an integer. Note that internally setting values are always stored as strings; this function converts the string to an integer for you. The default value will be returned if the setting is not defined or not an integer. Params: cr – The ContentResolver to access. name – The name of the setting to retrieve. def – Value to return if the setting is not defined. Returns: The setting's current value, or 'def' if it is not defined or not a valid integer." />
+      <item value="which" />
+      <item value="adbd cannot run as root in production builds" />
+      <item value="production builds" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="82" />
+        <entry key="ENGLISH" value="75" />
+        <entry key="FRISIAN" value="1" />
+      </map>
+    </option>
+  </component>
+</application>
