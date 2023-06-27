@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1687138842393" />
+    <option name="lastTrimTime" value="1687828554808" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -15,10 +15,15 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="762" />
-    <option name="newTranslationDialogWidth" value="1488" />
+    <option name="newTranslationDialogWidth" value="1486" />
     <option name="newTranslationDialogX" value="420" />
     <option name="newTranslationDialogY" value="269" />
     <histories>
+      <item value="ahead" />
+      <item value="提前完成" />
+      <item value="提前 " />
+      <item value="提前" />
+      <item value="advance" />
       <item value="最近" />
       <item value="zuij" />
       <item value="入驻" />
@@ -64,16 +69,11 @@
       <item value="社区角色" />
       <item value="社区 " />
       <item value="Moves a child view from hidden list to regular list. Calling this method should probably be followed by a detach, otherwise, it will suddenly show up in LayoutManager's children list." />
-      <item value="Whether user has enabled development settings." />
-      <item value="Convenience function for retrieving a single secure settings value as an integer. Note that internally setting values are always stored as strings; this function converts the string to an integer for you. The default value will be returned if the setting is not defined or not an integer. Params: cr – The ContentResolver to access. name – The name of the setting to retrieve. def – Value to return if the setting is not defined. Returns: The setting's current value, or 'def' if it is not defined or not a valid integer." />
-      <item value="which" />
-      <item value="adbd cannot run as root in production builds" />
-      <item value="production builds" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="82" />
-        <entry key="ENGLISH" value="75" />
+        <entry key="CHINESE" value="86" />
+        <entry key="ENGLISH" value="78" />
         <entry key="FRISIAN" value="1" />
       </map>
     </option>
