@@ -15,10 +15,11 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="762" />
-    <option name="newTranslationDialogWidth" value="1486" />
-    <option name="newTranslationDialogX" value="420" />
-    <option name="newTranslationDialogY" value="269" />
+    <option name="newTranslationDialogWidth" value="1484" />
+    <option name="newTranslationDialogX" value="217" />
+    <option name="newTranslationDialogY" value="234" />
     <histories>
+      <item value="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae consectetur corporis doloremque error, esse iusto minus, optio possimus praesentium, quia quisquam recusandae repellendus voluptatum. Accusantium alias beatae deserunt, dignissimos dolore hic illo ipsa ipsam iure minima, modi nemo nisi non quas recusandae repellendus soluta, velit voluptates. Doloremque harum quam sequi!" />
       <item value="ahead" />
       <item value="提前完成" />
       <item value="提前 " />
@@ -68,11 +69,10 @@
       <item value="角色" />
       <item value="社区角色" />
       <item value="社区 " />
-      <item value="Moves a child view from hidden list to regular list. Calling this method should probably be followed by a detach, otherwise, it will suddenly show up in LayoutManager's children list." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="86" />
+        <entry key="CHINESE" value="87" />
         <entry key="ENGLISH" value="78" />
         <entry key="FRISIAN" value="1" />
       </map>
