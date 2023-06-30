@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  -tag:Net_Request -tag:Net_Response -tag:UI_Stack -tag:IMApi -tag:Glide -tag:OKPRFL" />
+    <option name="mostRecentlyUsed" value="package:mine tag:WelcomeActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:WelcomeActivity" />
         <option value="package:mine tag:UI_Stack     " />
         <option value="package:mine  -tag:Net_Request -tag:Net_Response -tag:UI_Stack -tag:IMApi -tag:Glide -tag:OKPRFL" />
         <option value="package:mine tag:MentorOrderListByUserFragment" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:NNChatFragment tag:SSS  " />
         <option value="package:mine tag:NNChatFragment  " />
         <option value="package:mine tag:CommunityHomeInnerFragment " />
-        <option value="package:mine tag:CommunityViewModel  tag:CommunityFragment" />
       </list>
     </option>
   </component>
