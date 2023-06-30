@@ -19,6 +19,8 @@
     <option name="newTranslationDialogX" value="217" />
     <option name="newTranslationDialogY" value="234" />
     <histories>
+      <item value="Finish all of activities except the newest activity. Params: isLoadAnim – True to use animation for the outgoing activity, false otherwise." />
+      <item value="Finish all of activities except the newest activity." />
       <item value="A LayoutManager that lays out children in a staggered grid formation. It supports horizontal &amp; vertical layout as well as an ability to layout children in reverse. Staggered grids are likely to have gaps at the edges of the layout. To avoid these gaps, StaggeredGridLayoutManager can offset spans independently or move items between spans. You can control this behavior via setGapStrategy(int)." />
       <item value="Application context aware ViewModel. Subclasses must have a constructor which accepts Application as the only parameter." />
       <item value="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae consectetur corporis doloremque error, esse iusto minus, optio possimus praesentium, quia quisquam recusandae repellendus voluptatum. Accusantium alias beatae deserunt, dignissimos dolore hic illo ipsa ipsam iure minima, modi nemo nisi non quas recusandae repellendus soluta, velit voluptates. Doloremque harum quam sequi!" />
@@ -67,13 +69,11 @@
       <item value="规格" />
       <item value="套餐" />
       <item value="带玩" />
-      <item value="工会中心" />
-      <item value="角色" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="87" />
-        <entry key="ENGLISH" value="80" />
+        <entry key="ENGLISH" value="82" />
         <entry key="FRISIAN" value="1" />
       </map>
     </option>
