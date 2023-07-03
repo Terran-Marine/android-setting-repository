@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1687828554808" />
+    <option name="lastTrimTime" value="1688346952279" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -15,10 +15,11 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="762" />
-    <option name="newTranslationDialogWidth" value="1484" />
+    <option name="newTranslationDialogWidth" value="1482" />
     <option name="newTranslationDialogX" value="217" />
     <option name="newTranslationDialogY" value="234" />
     <histories>
+      <item value="has leaked window" />
       <item value="Finish all of activities except the newest activity. Params: isLoadAnim – True to use animation for the outgoing activity, false otherwise." />
       <item value="Finish all of activities except the newest activity." />
       <item value="A LayoutManager that lays out children in a staggered grid formation. It supports horizontal &amp; vertical layout as well as an ability to layout children in reverse. Staggered grids are likely to have gaps at the edges of the layout. To avoid these gaps, StaggeredGridLayoutManager can offset spans independently or move items between spans. You can control this behavior via setGapStrategy(int)." />
@@ -68,11 +69,10 @@
       <item value="sku" />
       <item value="规格" />
       <item value="套餐" />
-      <item value="带玩" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="87" />
+        <entry key="CHINESE" value="88" />
         <entry key="ENGLISH" value="82" />
         <entry key="FRISIAN" value="1" />
       </map>
