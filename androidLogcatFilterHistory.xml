@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:NNChannelUtils " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine tag:NNChannelUtils " />
         <option value="package:mine tag:MainActivity " />
         <option value="package:mine tag:WelcomeActivity" />
@@ -13,7 +13,6 @@
         <option value="package:mine tag:IMListenerManager   " />
         <option value="package:mine tag:NNChatFragment" />
         <option value="package:mine -tag:gralloc4" />
-        <option value="package:mine" />
         <option value="package:mine tag:AccService   " />
         <option value="package:mine tag:NNChatFragment   " />
         <option value="package:mine tag:CommunityUserDescFragment   " />
