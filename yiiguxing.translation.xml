@@ -15,10 +15,11 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="762" />
-    <option name="newTranslationDialogWidth" value="1480" />
+    <option name="newTranslationDialogWidth" value="1478" />
     <option name="newTranslationDialogX" value="217" />
     <option name="newTranslationDialogY" value="234" />
     <histories>
+      <item value="Type checking has run into a recursive problem. Easiest workaround: specify types of your declarations explicitly" />
       <item value="Detects a common minimal indent of all the input lines, removes it from every line and also removes the first and the last lines if they are blank (notice difference blank vs empty). Note that blank lines do not affect the detected indent level. In case if there are non-blank lines with no leading whitespace characters (no indent at all) then the common indent is 0, and therefore this function doesn't change the indentation. Doesn't preserve the original line endings." />
       <item value="confirm" />
       <item value="whether Client" />
@@ -68,11 +69,10 @@
       <item value="Mentor" />
       <item value="导师" />
       <item value="Mentor Manage Act" />
-      <item value="续费" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="90" />
+        <entry key="CHINESE" value="91" />
         <entry key="ENGLISH" value="83" />
         <entry key="FRISIAN" value="1" />
       </map>
